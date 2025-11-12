@@ -8,11 +8,6 @@
 
 I'm passionate about applying AI to medical imaging, electronic health records, and genomics. Currently working on cutting-edge solutions that bridge healthcare and artificial intelligence.
 
-- 🏥 **Focus:** Medical Imaging / EHR / Genomics AI
-- 🔬 **Research:** Deep Learning for Healthcare Applications
-- 🌱 **Learning:** Advanced AWS architectures and MLOps
-- 📍 **Location:** Ho Chi Minh city, Vietnam
-
 ## 🌟 Featured Projects
 
 ### 🦜 [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
