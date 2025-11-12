@@ -15,14 +15,14 @@ I'm passionate about applying AI to medical imaging, electronic health records, 
 
 ## 🌟 Featured Projects
 
-### 🎤 [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
+### 🦜 [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
 Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio quality
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=flat&color=blue)
 
-### 🚀 [Kani-TTS-Vie](https://github.com/pnnbao97/Kani-TTS-Vie)
+### 🐱 [Kani-TTS-Vie](https://github.com/pnnbao97/Kani-TTS-Vie)
 Fast Vietnamese TTS, 370M params, 3-second inference
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
