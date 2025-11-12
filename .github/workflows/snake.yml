@@ -2,23 +2,41 @@ name: Generate Snake
 
 on:
   schedule:
+    # Chạy mỗi 12 tiếng
     - cron: "0 */12 * * *"
+  
+  # Cho phép chạy thủ công
   workflow_dispatch:
+  
+  # Chạy khi push vào main
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
+      # Checkout code
+      - name: Checkout
+        uses: actions/checkout@v3
       
-      - uses: Platane/snk/svg-only@v3
+      # Generate snake animation
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: pnnbao97
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Push animation to output branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
