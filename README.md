@@ -49,7 +49,7 @@ Fast Vietnamese TTS, 370M params, 3-second inference
 
 <div align="center">
   
-  ![Snake animation](https://github.com/pnnbao97/pnnbao97/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/pnnbao97/pnnbao97/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
