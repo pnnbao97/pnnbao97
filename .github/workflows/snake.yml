@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+# QUAN TRỌNG: Thêm permissions này
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
