@@ -13,46 +13,6 @@ I'm passionate about applying AI to medical imaging, electronic health records, 
 - 🌱 **Learning:** Advanced AWS architectures and MLOps
 - 📍 **Location:** Ho Chi Minh city, Vietnam
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pnnbao97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pnnbao97&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-</div>
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnnbao97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=pnnbao97&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pnnbao97&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/pnnbao97/pnnbao97/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ## 🌟 Featured Projects
 
 ### 🎤 [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
@@ -69,13 +29,36 @@ Fast Vietnamese TTS, 370M params, 3-second inference
 ![Stars](https://img.shields.io/github/stars/pnnbao97/Kani-TTS-Vie?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/Kani-TTS-Vie?style=flat&color=blue)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pnnbao97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pnnbao97&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnnbao97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/pnnbao97/pnnbao97/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scream3ktr6@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[pnnbao@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bao.phamnguyenngoc.5)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pnnbao97)
 
 </div>
 
