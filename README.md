@@ -1,11 +1,3 @@
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+for+Healthcare)
-
-</div>
-
-## 🚀 About Me
-
 I'm passionate about applying AI to medical imaging, electronic health records, and genomics. Currently working on cutting-edge solutions that bridge healthcare and artificial intelligence.
 
 ## 🌟 Featured Projects
@@ -58,11 +50,3 @@ Fast Vietnamese TTS, 370M params, 3-second inference
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pnnbao97.pnnbao97)
-  
-  **💡 "Building AI solutions that make a difference in healthcare"**
-  
-</div>
