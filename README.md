@@ -12,9 +12,16 @@ Vietnamese TTS with instant voice cloning • On-device • Real-time CPU infere
 ### 🐱 [Kani-TTS-Vie](https://github.com/pnnbao97/Kani-TTS-Vie)
 Fast Vietnamese TTS, 370M params, 3-second inference
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/Kani-TTS-Vie?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/Kani-TTS-Vie?style=flat&color=blue)
+
+### 🦀 [MedCrab](https://github.com/pnnbao97/MedCrab)
+Medical PDF Translator for fast, accurate conversion of medical documents and complex layouts into structured text.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/pnnbao97/MedCrab?style=flat&color=yellow)
+![Forks](https://img.shields.io/github/forks/pnnbao97/MedCrab?style=flat&color=blue)
 
 ## 📊 GitHub Stats
 
