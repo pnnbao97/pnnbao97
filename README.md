@@ -14,7 +14,7 @@ Vietnamese TTS with instant voice cloning • On-device • Real-time CPU infere
 Fast Vietnamese TTS, 370M params, 3-second inference
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/Kani-TTS-Vie)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/Kani-TTS-Vie?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/Kani-TTS-Vie?style=flat&color=blue)
 
