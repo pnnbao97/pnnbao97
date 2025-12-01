@@ -26,22 +26,6 @@ Medical PDF Translator for fast, accurate conversion of medical documents and co
 ![Stars](https://img.shields.io/github/stars/pnnbao97/MedCrab?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/MedCrab?style=flat&color=blue)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pnnbao97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pnnbao97&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-</div>
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnnbao97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
 ## 🐍 Contribution Activity
 
 <div align="center">
