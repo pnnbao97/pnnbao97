@@ -18,6 +18,13 @@ Fast Vietnamese TTS, 370M params, 3-second inference
 ![Stars](https://img.shields.io/github/stars/pnnbao97/Kani-TTS-Vie?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/Kani-TTS-Vie?style=flat&color=blue)
 
+### 🌀 [wordflux](https://github.com/pnnbao97/wordflux)
+Translate DOCX using OpenAI - Preserve Format
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/pnnbao97/wordflux?style=flat&color=yellow)
+![Forks](https://img.shields.io/github/forks/pnnbao97/wordflux?style=flat&color=blue)
+
 ### 🦀 [MedCrab](https://github.com/pnnbao97/MedCrab)
 Medical PDF Translator for fast, accurate conversion of medical documents and complex layouts into structured text.
 
