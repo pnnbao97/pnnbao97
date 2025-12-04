@@ -6,7 +6,7 @@ I'm passionate about applying AI to medical imaging, electronic health records, 
 Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio quality
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/VieNeu-TTS)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-orange)](https://huggingface.co/pnnbao-ump/VieNeu-TTS)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=flat&color=blue)
 
@@ -14,7 +14,7 @@ Vietnamese TTS with instant voice cloning • On-device • Real-time CPU infere
 Fast Vietnamese TTS, 370M params, 3-second inference
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-orange)](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/Kani-TTS-Vie?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/Kani-TTS-Vie?style=flat&color=blue)
 
@@ -29,7 +29,7 @@ Translate DOCX using OpenAI - Preserve Format
 Medical PDF Translator for fast, accurate conversion of medical documents and complex layouts into structured text.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/MedCrab-1.5B)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-orange)](https://huggingface.co/pnnbao-ump/MedCrab-1.5B)
 ![Stars](https://img.shields.io/github/stars/pnnbao97/MedCrab?style=flat&color=yellow)
 ![Forks](https://img.shields.io/github/forks/pnnbao97/MedCrab?style=flat&color=blue)
 
