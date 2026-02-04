@@ -1,4 +1,4 @@
-I'm passionate about applying AI to medical imaging, electronic health records, and genomics. Currently working on cutting-edge solutions that bridge healthcare and artificial intelligence.
+Decoding the human blueprint at the intersection of AI and Bio-intelligence. I build the neural engines that transform medical imaging, EHR, and genomics into the future of precision medicine.
 
 ## 📫 Connect With Me
 
