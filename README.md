@@ -5,7 +5,7 @@ Decoding the human blueprint at the intersection of AI and Bio-intelligence. I b
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[pnnbao@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bao.phamnguyenngoc.5)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pnnbao97)
 
 </div>
 
