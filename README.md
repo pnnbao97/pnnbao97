@@ -13,24 +13,6 @@
 
 ---
 
-## 🧬 Who Am I?
-
-```python
-class PhysicianEngineer:
-    def __init__(self):
-        self.name        = "Pham Nguyen Ngoc Bao"
-        self.alias       = "pnnbao97"
-        self.background  = ["Medical Doctor 🩺", "AI Architect 🤖", "Open Source Builder 🛠️"]
-        self.location    = "Vietnam 🇻🇳"
-        self.journey     = "Zero to Top 25 AI Developer — in exactly 1 year"
-
-    def mission(self):
-        return "Bridge clinical medicine and high-performance AI to solve real-world problems."
-
-    def fun_fact(self):
-        return "Diagnosed patients in the morning, trained models at night. Still do."
-```
-
 > *"I didn't come from a CS background. I came from a hospital. That's my edge."*
 
 ---
