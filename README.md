@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- Dynamic header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pham%20Nguyen%20Ngoc%20Bao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MD%20%F0%9F%A9%BA%20%E2%86%92%20AI%20Architect%20%F0%9F%A4%96%20%7C%20Top%2025%20AI%20Developer%20Vietnam&descAlignY=55&descSize=16" />
-
-<br/>
-
 [![GoodAIList Top 25](https://img.shields.io/badge/GoodAIList-Top_25_AI_Developers_Vietnam-FF69B4?style=for-the-badge&logo=github)](https://goodailist.com/devs?country=Vietnam)
 [![Committers Top](https://img.shields.io/badge/Committers.top-Top_Ranked_Vietnam-0080FF?style=for-the-badge&logo=github)](https://user-badge.committers.top/vietnam/pnnbao97)
-[![Profile Views](https://komarev.com/ghpvc/?username=pnnbao97&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/pnnbao97)
 
 </div>
 
