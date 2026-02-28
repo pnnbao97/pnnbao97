@@ -58,7 +58,7 @@ class PhysicianEngineer:
 
 [![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=social)](https://github.com/pnnbao97/VieNeu-TTS)
 [![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=social)](https://github.com/pnnbao97/VieNeu-TTS)
-[![HuggingFace Downloads](https://img.shields.io/badge/HuggingFace-30K%2B_Downloads-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/)
+[![HuggingFace Downloads](https://img.shields.io/badge/HuggingFace-30K%2B_Downloads-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/pnnbao-ump/VieNeu-TTS)
 [![Status](https://img.shields.io/badge/Status-🚀_Stable-brightgreen?style=flat-square)](https://github.com/pnnbao97/VieNeu-TTS)
 
 > Fully on-device Vietnamese TTS with voice cloning support. Optimized with GGUF quantization and Intel XPU acceleration. No cloud. No API keys. Just pure local inference.
