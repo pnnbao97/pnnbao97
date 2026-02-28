@@ -71,10 +71,10 @@ class PhysicianEngineer:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-pnnbao@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnnbao@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-pnnbao97-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pnnbao97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen_Ngoc_Bao_Pham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-ngoc-bao-pham-54674a165)
-[![GitHub](https://img.shields.io/badge/GitHub-pnnbao97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pnnbao97)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnnbao@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pnnbao97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-ngoc-bao-pham-54674a165)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pnnbao97)
 
 <br/>
 
