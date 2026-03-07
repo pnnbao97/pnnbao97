@@ -24,7 +24,7 @@
 | 🥇 Achievement | 📊 Scale |
 |:---|:---|
 | **Top 25 AI Open Source Developer — Vietnam** (GoodAIList by Chip Huyen) | National ranking |
-| **VieNeu-TTS** — Vietnamese TTS & Voice Cloning | ⭐ ~800 Stars · 🍴 ~300 Forks · 📥 30,000+ HuggingFace Downloads |
+| **VieNeu-TTS** — Vietnamese TTS & Voice Cloning | ⭐ ~900 Stars · 🍴 ~300 Forks · 📥 60,000+ HuggingFace Downloads |
 | **Featured** in `keon/awesome-nlp` | 18,200+ Stars repo |
 
 </div>
@@ -40,7 +40,7 @@
 
 [![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=social)](https://github.com/pnnbao97/VieNeu-TTS)
 [![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=social)](https://github.com/pnnbao97/VieNeu-TTS)
-[![HuggingFace Downloads](https://img.shields.io/badge/HuggingFace-30K%2B_Downloads-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/pnnbao-ump/VieNeu-TTS)
+[![HuggingFace Downloads](https://img.shields.io/badge/HuggingFace-60K%2B_Downloads-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/pnnbao-ump/VieNeu-TTS)
 [![Status](https://img.shields.io/badge/Status-🚀_Stable-brightgreen?style=flat-square)](https://github.com/pnnbao97/VieNeu-TTS)
 
 > Fully on-device Vietnamese TTS with voice cloning support. Optimized with GGUF quantization and Intel XPU acceleration. No cloud. No API keys. Just pure local inference.
