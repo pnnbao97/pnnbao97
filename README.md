@@ -45,7 +45,7 @@
 
 `PyTorch` `GGUF` `XPU` `Voice Cloning` `On-device AI` `Vietnamese NLP`
 
-### 🦀 [Sea-g2p](https://github.com/pnnbao97/sea-g2p)
+### 🦭 [Sea-g2p](https://github.com/pnnbao97/sea-g2p)
 **High-Performance Multilingual Phonemization Library**
 
 [![Stars](https://img.shields.io/github/stars/pnnbao97/sea-g2p?style=social)](https://github.com/pnnbao97/sea-g2p)
