@@ -5,6 +5,6 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=pnnbao97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Tech Stack
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,rust,docker,postgres,aws,git,githubactions)](https://skillicons.dev)
 </div>
