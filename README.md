@@ -1,4 +1,4 @@
-### Hi, I'm Bao 👋
+### Hi there, I'm Bao 👋
 
 [![GoodAIList Top 19](https://img.shields.io/badge/GoodAIList-Top_19_AI_Developers_Vietnam-FF69B4?style=flat-square&logo=github)](https://goodailist.com/devs?country=Vietnam)
 [![Committers Top](https://img.shields.io/badge/Committers.top-Top_Ranked_Vietnam-0080FF?style=flat-square&logo=github)](https://user-badge.committers.top/vietnam/pnnbao97)
