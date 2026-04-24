@@ -15,6 +15,6 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=pnnbao97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-📫 [pnnbao@vieneu.io](mailto:pnnbao@vieneu.io)
+📫 [pnnbao@vieneu.io](mailto:pnnbao@vieneu.io) | [LinkedIn](https://www.linkedin.com/in/nguyen-ngoc-bao-pham-54674a165/)
 
 </div>
