@@ -28,7 +28,7 @@
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,ts,docker,postgres,fastapi,nextjs,prisma,aws,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,ts,docker,postgres,fastapi,aws,git,githubactions" />
 </div>
 
 ---
